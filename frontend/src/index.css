@@ -1,0 +1,13 @@
+main {
+  min-height: 80vh;
+  padding: 50px 200px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+* {
+  font-family: Roboto, "sans-serif";
+}
